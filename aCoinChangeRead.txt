@@ -1,0 +1,8 @@
+
+
+
+This location:
+C:\Users\kinge\a_SKUNK_WORKS\Code\Coin_Change\Sk1\personal_details
+
+Destination Folder for Upload to Heroku:
+C:\Users\kinge\coin
